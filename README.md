@@ -1,5 +1,3 @@
-# utoKidbutterfly
-
 # 꼬마 나비(UtoKidButterFly)
 
 <a href="https://wess.tistory.com" target="_blank">
